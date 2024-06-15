@@ -1,0 +1,29 @@
+<svg id="Group_1131" data-name="Group 1131" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61.101 67.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #4296b4;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Group_1130" data-name="Group 1130">
+    <path id="Path_181" data-name="Path 181" class="cls-1" d="M33.9,62.9a3.3,3.3,0,1,1-6.6,0"/>
+    <path id="Path_182" data-name="Path 182" class="cls-1" d="M40,55.3V50.1h0c0-2.2.9-3,3.8-7.2h0a22.729,22.729,0,0,0,3.9-12.3,17.071,17.071,0,0,0-17-17.1h0a17.136,17.136,0,0,0-17,17.1,21.92,21.92,0,0,0,3.9,12.3h0c2.9,4.2,3.8,5.3,3.8,7.2v5.2"/>
+    <path id="Path_183" data-name="Path 183" class="cls-1" d="M40,61a1.9,1.9,0,0,1-1.9,1.9H23A1.9,1.9,0,0,1,21.1,61V54.3A1.9,1.9,0,0,1,23,52.4H38.1A1.9,1.9,0,0,1,40,54.3Z"/>
+    <g id="Group_1129" data-name="Group 1129">
+      <path id="Path_184" data-name="Path 184" class="cls-1" d="M27,52.4V37.3h7.1V52.4"/>
+      <path id="Path_185" data-name="Path 185" class="cls-1" d="M24.7,32.9a2.2,2.2,0,1,0,0,4.4H27V35.1A2.242,2.242,0,0,0,24.7,32.9Z"/>
+      <path id="Path_186" data-name="Path 186" class="cls-1" d="M36.4,32.9a2.2,2.2,0,0,1,0,4.4H34.2V35.1A2.1,2.1,0,0,1,36.4,32.9Z"/>
+    </g>
+  </g>
+  <line id="Line_39" data-name="Line 39" class="cls-1" x2="5.7" transform="translate(1 30.5)"/>
+  <line id="Line_40" data-name="Line 40" class="cls-1" x2="5.7" transform="translate(54.4 30.5)"/>
+  <line id="Line_41" data-name="Line 41" class="cls-1" y2="5.7" transform="translate(30.5 1)"/>
+  <line id="Line_42" data-name="Line 42" class="cls-1" x2="4.3" y2="4.3" transform="translate(9.7 9.7)"/>
+  <line id="Line_43" data-name="Line 43" class="cls-1" x1="4.3" y2="4.3" transform="translate(47.1 9.7)"/>
+</svg>
