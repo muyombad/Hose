@@ -828,12 +828,23 @@ section,
     border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
   }
 }
+@media (min-width: 1200px) {
+  .col-xl-3 {
+      flex: 0 0 auto;
+      width: 20%;
+  }
+}
+@media (min-width: 1200px) {
+  .container, .container-lg, .container-md, .container-sm, .container-xl {
+      max-width: 1300px;
+  }
+}
 
 .hero .icon-box {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background: color-mix(in srgb, var(--accent-color), white 4%);
+  background: linear-gradient(180deg, rgb(51, 145, 39) 43%, rgba(0, 13, 255, 0.856) 72%);
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
@@ -870,7 +881,7 @@ section,
 
 .hero .icon-box:hover .title a,
 .hero .icon-box:hover .icon {
-  color: green;
+  color: rgb(255, 255, 255);
 }
 
 /*--------------------------------------------------------------
