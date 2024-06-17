@@ -831,12 +831,12 @@ section,
 @media (min-width: 1200px) {
   .col-xl-3 {
       flex: 0 0 auto;
-      width: 20%;
+      width: 20% !important;
   }
 }
 @media (min-width: 1200px) {
   .container, .container-lg, .container-md, .container-sm, .container-xl {
-      max-width: 1300px;
+      max-width: 1300px !important;
   }
 }
 
